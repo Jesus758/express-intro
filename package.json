@@ -1,0 +1,28 @@
+{
+  "name": "express-intro",
+  "version": "1.0.0",
+  "description": "Introduccion del paquete Express - practica",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo \"Start: project started\" && nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesus758/express-intro.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "git"
+  ],
+  "author": "Jesus Alejandro Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesus758/express-intro/issues"
+  },
+  "homepage": "https://github.com/Jesus758/express-intro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
